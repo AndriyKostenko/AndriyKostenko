@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on Car Factory website
+- 🔭 I’m currently working on ChildCare web app
 
 - 🤝 I’m looking for help with **JavaScript(React), Python (FastApi, Django)**
 
-- 👨‍💻 All of my projects are available at [https://andriy-kostenko.com](https://andriy-kostenko.com)
+- 👨‍💻 All of my projects are available here.
 
-- 💬 Ask me about **React, FastApi**
+- 💬 Ask me about **React, FastAPI**
 
 - 📫 How to reach me **a.kostenkouk@gmail.com**
 
