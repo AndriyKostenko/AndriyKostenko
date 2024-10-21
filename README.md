@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on ChildCare web app
+- 🔭 I’m currently working on my E-Commerce store
 
-- 🤝 I’m looking for help with **JavaScript(React), Python (FastApi, Django)**
+- 🤝 I’m looking for help with **JavaScript(React / Next.js), Python (FastApi, Django)**
 
 - 👨‍💻 All of my projects are available here.
 
